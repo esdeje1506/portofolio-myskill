@@ -22,10 +22,13 @@ function About(prop) {
             <img
               className="profile-pic"
               src={image}
-              alt="Nordic Giant Profile Pic"
+              alt="Syahrul Dwi Juniyanto"
             />
           </div>
-          <div className="nine columns main-col">
+          <div
+            className="nine columns main-col"
+            style={{ textAlign: "justify" }}
+          >
             <h2>About Me</h2>
             <p>{bio}</p>
             <div className="row">
