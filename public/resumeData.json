@@ -1,18 +1,18 @@
 {
     "main":{
         "name" : "Syahrul Dwi Juniyanto",
-        "description" : "Iam a Programer",
+        "description" : "I am a Programer",
         "image" : "./images/dzn.png",
         "github" : "https://github.com",
         "project" : "https://github.com",        
         "bio": "Ini adalah section biografi aku",
         "contactmessage":"Hello, here I am",
         "email": "myemail@gmail.com",
-        "phone": "0877-1234-5678",
+        "phone": "0823-1234-5678",
         "address":{
-            "street":"Jl Syahdija",
-            "city":"Balad Dijiya",
-            "state":"East Yard",
+            "street":"Jl Yogyakarta",
+            "city":"Sleman",
+            "state":"Special Region of Yogyakarta",
             "zip": "15069"
         },
         "website": "https://github.com",
@@ -30,17 +30,17 @@
           },
           {
             "name":"linkedin",
-            "url":"https://www.linkedin.com/in/mutia-rahmatun-husna/",
+            "url":"https://www.linkedin.com/in/",
             "className":"fa fa-linkedin"
           },
           {
             "name":"instagram",
-            "url":"http://instagram.com/mutia.rahmatun",
+            "url":"http://instagram.com/",
             "className":"fa fa-instagram"
           },
           {
             "name":"github",
-            "url":"https://github.com/mutiarahmatun",
+            "url":"https://github.com/",
             "className":"fa fa-github"
           }
         ],
@@ -48,131 +48,97 @@
             "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
             "education" : [
                 {
-                    "school": "Universitas Indonesia",
-                    "degree": "Bachelor degree of Computer Science",
-                    "graduated": "June 2021",
-                    "description" : "I am joining gemastik competition"
+                    "school": "Universitas Jenderal Achmad Yani Yogyakarta",
+                    "degree": "Information System Diploma",
+                    "graduated": "October 2021",
+                    "description" : "I am Cumlaude"
                 },
                 {
-                    "school": "SMA 39 Jakarta",
+                    "school": "SMA Negeri 1 Seyegan",
                     "degree": "Science",
-                    "graduated": "May 2017",
-                    "description": "I am joining computer olympiad"
+                    "graduated": "April 2017",
+                    "description": "I am joining cynematography club"
                 }
             ],
             "work": [
                 {
-                    "company" : "PT. Linimuda",
-                    "title" : "Software Engineer",
-                    "years": "April 2020 - February 2022",
+                    "company" : "PT. Explora Printama",
+                    "title" : "Design Graphic Operator",
+                    "years": "September 2021 - Oktober 2024",
                     "description": "Creating a website and maintenance"
                 }, {
-                    "company": "My Skill Id",
-                    "title": "Frontend Engineer",
-                    "years": "February 2022 - present",
-                    "description": "Creating a mobile application"
+                    "company": "CV. Technophoria",
+                    "title": "Frontend Engineer Internship",
+                    "years": "August 2020 - November 2020",
+                    "description": "Creating a Education Maping System"
                 }
             ],
             "skills": [
                 {
                     "name" : "Java",
-                    "level": "90%"
+                    "level": "60%"
                 },
                 {
-                    "name": "Python",
+                    "name": "Javascript",
                     "level": "70%"
                 },
                 {
                     "name": "ReactJS",
-                    "level": "85%"
+                    "level": "60%"
                 },
                 {
-                    "name": "VueJS",
-                    "level": "88%"
-                },
-                {
-                    "name": "Kotlin",
-                    "level": "95%"
+                    "name": "JQuery",
+                    "level": "60%"
                 },
                 {
                     "name": "PHP",
-                    "level": "60%"
+                    "level": "40%"
                 }
             ]
         },
         "portfolio":{
             "projects": [
                 {
-                    "title": "Canadian Wanderlust",
-                    "category": "My travel blog for my post-university",
+                    "title": "Mode Survival",
+                    "category": "My first project",
                     "image": "01.jpg",
-                    "url": "https://www.canadianwanderlust.com"
+                    "url": "https://www.modesurvival.com"
                 },
                 {
-                    "title":"Fury Fighting Gear",
-                    "category":"(offline now) A fighting gear company I started",
+                    "title":"Sistem Reservasi Restoran",
+                    "category":"Resto Reservation System using Node.js",
                     "image":"02.jpg",
-                    "url":"http://www.timbakerdev.com"
+                    "url":"http://www.sivasran.com"
                   },
                   {
-                    "title":"Original Thai Food",
-                    "category":"Website I built for a restaurant I like in Thailand",
+                    "title":"Sistem Pemetaan Pendidikan",
+                    "category":"Education Information Maping Website",
                     "image":"03.jpg",
-                    "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+                    "url":"http://www.sitadikbima.com"
                   },
                   {
-                    "title":"Resume Website",
-                    "category":"A React based resume website template",
+                    "title":"Sistem Pemetaan Bencana DIY",
+                    "category":"Android App Disaster Maping System using Java Programing for University final project",
                     "image":"04.jpg",
-                    "url":"http://www.timbakerdev.com"
+                    "url":"http://www.sipebe.com"
                   },
                   {
-                    "title":"Smirkspace",
-                    "category":"(MVP Only) A React and Meteor based chat University project.",
+                    "title":"Ada Kerja",
+                    "category":"My online reactjs course final project",
                     "image":"05.jpg",
-                    "url":"http://www.smirkspace.com"
+                    "url":"https://github.com/esdeje1506/tugas-1/tree/main/Sanbercode%20Reactjs%20Batch%2056/final-project/ada-kerja-syahrul"
                   },
                   {
-                    "title":"Canadian Wanderlust",
-                    "category":"My Travel Blog for my post-university travels",
+                    "title":"Info Wisata Yogyakarta",
+                    "category":"My online Front-End course basic HTML+CSS+JS project",
                     "image":"06.jpg",
-                    "url":"https://www.canadianwanderlust.com"
+                    "url":"https://esdeje1506.github.io/Web-Dasar-Dicoding.github.io/"
                   },
                   {
-                    "title":"Fury Fighting Gear",
-                    "category":"(offline now) A fighting gear company I started",
-                    "image":"01.jpg",
-                    "url":"http://www.timbakerdev.com"
-                  },
-                  {
-                    "title":"Original Thai Food",
-                    "category":"Website I built for a restaurant I like in Thailand",
-                    "image":"02.jpg",
-                    "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-                  },
-                  {
-                    "title":"Original Thai Food",
-                    "category":"Website I built for a restaurant I like in Thailand",
-                    "image":"03.jpg",
-                    "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-                  },
-                  {
-                    "title":"Resume Website",
-                    "category":"A React based resume website template",
+                    "title":"Bookshelf App",
+                    "category":"My online Front-End course basic using local storage browser project",
                     "image":"04.jpg",
-                    "url":"http://www.timbakerdev.com"
-                  },
-                  {
-                    "title":"Smirkspace",
-                    "category":"(MVP Only) A React and Meteor based chat University project.",
-                    "image":"05.jpg",
-                    "url":"http://www.smirkspace.com"
-                  },
-                  {
-                    "title":"Canadian Wanderlust",
-                    "category":"My Travel Blog for my post-university travels",
-                    "image":"06.jpg",
-                    "url":"https://www.canadianwanderlust.com"
+                    "url":"https://esdeje1506.github.io/bookshelf-app/"
                   }
             ]
         }

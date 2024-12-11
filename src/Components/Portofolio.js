@@ -12,7 +12,11 @@ function Portofolio(prop) {
       <div key={id} className="columns portfolio-item">
         <div className="item-wrap">
           <Zoom_Img alt={projects.title} src={projectImage} />
-          <div style={{ textAlign: "center" }}>{projects.title}</div>
+          <div style={{ textAlign: "center" }}>
+            <a href={projects.url} target="_blank">
+              {projects.title}
+            </a>
+          </div>
         </div>
       </div>
     );
